@@ -1,0 +1,94 @@
+# Copyright (C) 2016 the WordPress team
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Termatech 1.0\n"
+"POT-Creation-Date: 2016-05-15 16:25+0600\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-06-09 17:07+0600\n"
+"Last-Translator: Ehsan <ehsanahmedweb@gmail.com>\n"
+"Language-Team: LANGUAGE <ehsan@bordingvista.com>\n"
+"X-Generator: Poedit 1.6.7\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: da\n"
+
+#: taxonomy-product_category.php:109
+msgid "SPECIFICATIONER"
+msgstr "SPECIFIKCATIONER"
+
+#: taxonomy-product_category.php:110
+msgid "MERE INFO"
+msgstr "MERE INFO"
+
+#: taxonomy-product_category.php:111
+msgid "DOWNLOAD"
+msgstr "DOWNLOAD"
+
+#: homepage-findForhandler.php:8
+msgid "Find forhandler"
+msgstr "Find forhandler"
+
+msgid "Sorry, no posts matched your criteria."
+msgstr "Beklager, ingen indlæg matchede dine kriterier."
+
+#. translators: month name, genitive
+#: wp-includes/locale.php:153
+msgid "January"
+msgstr "januars"
+
+#. translators: month name, genitive
+#: wp-includes/locale.php:154
+msgid "February"
+msgstr "februars"
+
+#. translators: month name, genitive
+#: wp-includes/locale.php:155
+msgid "March"
+msgstr "martsʼ"
+
+#. translators: month name, genitive
+#: wp-includes/locale.php:156
+msgid "April"
+msgstr "aprils"
+
+#. translators: month name, genitive
+#: wp-includes/locale.php:157
+msgid "May"
+msgstr "majs"
+
+#. translators: month name, genitive
+#: wp-includes/locale.php:158
+msgid "June"
+msgstr "junis"
+
+#. translators: month name, genitive
+#: wp-includes/locale.php:159
+msgid "July"
+msgstr "julis"
+
+#. translators: month name, genitive
+#: wp-includes/locale.php:160
+msgid "August"
+msgstr "augusts"
+
+#. translators: month name, genitive
+#: wp-includes/locale.php:161
+msgid "September"
+msgstr "septembers"
+
+#. translators: month name, genitive
+#: wp-includes/locale.php:162
+msgid "October"
+msgstr "oktobers"
+
+#. translators: month name, genitive
+#: wp-includes/locale.php:163
+msgid "November"
+msgstr "novembers"
+
+#. translators: month name, genitive
+#: wp-includes/locale.php:164
+msgid "December"
+msgstr "decembers"
